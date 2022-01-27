@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.1.6)  27 JAN 2022 15:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.1.6)  27 JAN 2022 15:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -817,90 +817,106 @@ Package: arydshln 2019/02/21 v1.76
 Package hyperref Info: Option `colorlinks' set `true' on input line 124.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 142.
+(hyperref)                removing `\\' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 142.
+(hyperref)                removing `\unhcopy' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 142.
+(hyperref)                removing `\strutbox' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 142.
+(hyperref)                removing `\\' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 142.
+(hyperref)                removing `\\' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 142.
+(hyperref)                removing `\\' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 142.
+(hyperref)                removing `\\' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 142.
+(hyperref)                removing `\unhcopy' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 142.
+(hyperref)                removing `\strutbox' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 142.
+(hyperref)                removing `\\' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 142.
+(hyperref)                removing `\unhcopy' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 142.
+(hyperref)                removing `\strutbox' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 142.
+(hyperref)                removing `\\' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 142.
+(hyperref)                removing `\\' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 142.
+(hyperref)                removing `\unhcopy' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 142.
+(hyperref)                removing `\strutbox' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 142.
+(hyperref)                removing `\\' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 142.
+(hyperref)                removing `\unhcopy' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 142.
+(hyperref)                removing `\strutbox' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 142.
+(hyperref)                removing `\\' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 142.
+(hyperref)                removing `\char' on input line 144.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 144.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 144.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 144.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 144.
 
 LaTeX Font Info:    Trying to load font information for T1+ppl on input line 14
-5.
+7.
 (/usr/share/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 ) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -910,24 +926,24 @@ File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
 ) (./Part1.aux)
 \openout1 = `Part1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -983,7 +999,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 145.
+Package hyperref Info: Link coloring ON on input line 147.
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
@@ -993,9 +1009,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count371
 )
-LaTeX Info: Redefining \ref on input line 145.
-LaTeX Info: Redefining \pageref on input line 145.
-LaTeX Info: Redefining \nameref on input line 145.
+LaTeX Info: Redefining \ref on input line 147.
+LaTeX Info: Redefining \pageref on input line 147.
+LaTeX Info: Redefining \nameref on input line 147.
 
 (/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English
 .dict
@@ -1021,12 +1037,12 @@ Dictionary: translator-numbers-dictionary, Language: English
 sh.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \microtypecontext on input line 145.
-Package microtype Info: Applying patch `item' on input line 145.
-Package microtype Info: Applying patch `toc' on input line 145.
-Package microtype Info: Applying patch `eqnum' on input line 145.
+LaTeX Info: Redefining \microtypecontext on input line 147.
+Package microtype Info: Applying patch `item' on input line 147.
+Package microtype Info: Applying patch `toc' on input line 147.
+Package microtype Info: Applying patch `eqnum' on input line 147.
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 145.
+Package microtype Warning: Unable to apply patch `footnote' on input line 147.
 
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -1034,7 +1050,7 @@ Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 145.
+LaTeX Info: Redefining \showhyphens on input line 147.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1048,57 +1064,57 @@ LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 ) (./Part1.nav)
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 146.
+ut line 148.
 (/usr/share/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-46.
+48.
 (/usr/share/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
-73.
+75.
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-173.
+175.
 (/usr/share/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-173.
+175.
 (/usr/share/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-173.
+175.
 (/usr/share/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 173.
+(Font)              scaled to size 10.42007pt on input line 175.
 (/usr/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 173.
+(Font)              scaled to size 7.91925pt on input line 175.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 173.
+(Font)              scaled to size 6.25204pt on input line 175.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 173.
+(Font)              scaled to size 10.42007pt on input line 175.
 (/usr/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 173.
+(Font)              scaled to size 7.91925pt on input line 175.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 173.
+(Font)              scaled to size 6.25204pt on input line 175.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-173.
+175.
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ) [2
@@ -1112,22 +1128,22 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 File: include/figures/JrAFoq5fae-prior.png Graphic file (type png)
 <use include/figures/JrAFoq5fae-prior.png>
 Package pdftex.def Info: include/figures/JrAFoq5fae-prior.png  used on input li
-ne 364.
+ne 366.
 (pdftex.def)             Requested size: 177.37325pt x 118.24883pt.
 <include/figures/3GzOCooNPt-posterior.png, id=49, 426.75435pt x 284.5029pt>
 File: include/figures/3GzOCooNPt-posterior.png Graphic file (type png)
 <use include/figures/3GzOCooNPt-posterior.png>
 Package pdftex.def Info: include/figures/3GzOCooNPt-posterior.png  used on inpu
-t line 364.
+t line 366.
 (pdftex.def)             Requested size: 176.99556pt x 117.99704pt.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 364.
+(Font)              scaled to size 15.0049pt on input line 366.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 364.
+(Font)              scaled to size 8.33606pt on input line 366.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 364.
+(Font)              scaled to size 15.0049pt on input line 366.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 364.
+(Font)              scaled to size 8.33606pt on input line 366.
 [5
 
  <./include/figures/JrAFoq5fae-prior.png> <./include/figures/3GzOCooNPt-posteri
@@ -1147,7 +1163,7 @@ t>
 File: Part1_files/figure-beamer/unnamed-chunk-4-1.pdf Graphic file (type pdf)
 <use Part1_files/figure-beamer/unnamed-chunk-4-1.pdf>
 Package pdftex.def Info: Part1_files/figure-beamer/unnamed-chunk-4-1.pdf  used 
-on input line 491.
+on input line 493.
 (pdftex.def)             Requested size: 307.29515pt x 150.17139pt.
 [11
 
@@ -1167,7 +1183,7 @@ on input line 491.
 File: include/figures/bayesrule_discrete_unif.png Graphic file (type png)
 <use include/figures/bayesrule_discrete_unif.png>
 Package pdftex.def Info: include/figures/bayesrule_discrete_unif.png  used on i
-nput line 561.
+nput line 563.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [17
 
@@ -1176,7 +1192,7 @@ nput line 561.
 File: include/figures/bayesrule_beta_1_1.png Graphic file (type png)
 <use include/figures/bayesrule_beta_1_1.png>
 Package pdftex.def Info: include/figures/bayesrule_beta_1_1.png  used on input 
-line 566.
+line 568.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [18
 
@@ -1187,7 +1203,7 @@ line 566.
 File: include/figures/bayesrule_beta_30_70.png Graphic file (type png)
 <use include/figures/bayesrule_beta_30_70.png>
 Package pdftex.def Info: include/figures/bayesrule_beta_30_70.png  used on inpu
-t line 576.
+t line 578.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [20
 
@@ -1198,7 +1214,7 @@ t line 576.
 File: include/figures/bayesrule_beta_3_7.png Graphic file (type png)
 <use include/figures/bayesrule_beta_3_7.png>
 Package pdftex.def Info: include/figures/bayesrule_beta_3_7.png  used on input 
-line 586.
+line 588.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [22
 
@@ -1207,7 +1223,7 @@ line 586.
 File: include/figures/bayesrule_beta_7_3.png Graphic file (type png)
 <use include/figures/bayesrule_beta_7_3.png>
 Package pdftex.def Info: include/figures/bayesrule_beta_7_3.png  used on input 
-line 591.
+line 593.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [23
 
@@ -1218,7 +1234,7 @@ line 591.
 File: include/figures/bayesrule_beta_1_1_all.png Graphic file (type png)
 <use include/figures/bayesrule_beta_1_1_all.png>
 Package pdftex.def Info: include/figures/bayesrule_beta_1_1_all.png  used on in
-put line 612.
+put line 614.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [25
 
@@ -1228,7 +1244,7 @@ put line 612.
 File: include/figures/bayesrule_beta_30_70_all.png Graphic file (type png)
 <use include/figures/bayesrule_beta_30_70_all.png>
 Package pdftex.def Info: include/figures/bayesrule_beta_30_70_all.png  used on 
-input line 617.
+input line 619.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [26
 
@@ -1237,7 +1253,7 @@ input line 617.
 File: include/figures/bayesrule_beta_3_7_all.png Graphic file (type png)
 <use include/figures/bayesrule_beta_3_7_all.png>
 Package pdftex.def Info: include/figures/bayesrule_beta_3_7_all.png  used on in
-put line 622.
+put line 624.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [27
 
@@ -1246,7 +1262,7 @@ put line 622.
 File: include/figures/bayesrule_beta_7_3_all.png Graphic file (type png)
 <use include/figures/bayesrule_beta_7_3_all.png>
 Package pdftex.def Info: include/figures/bayesrule_beta_7_3_all.png  used on in
-put line 627.
+put line 629.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [28
 
@@ -1265,7 +1281,7 @@ put line 627.
 File: include/figures/posteriors_all.png Graphic file (type png)
 <use include/figures/posteriors_all.png>
 Package pdftex.def Info: include/figures/posteriors_all.png  used on input line
- 708.
+ 710.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [34
 
@@ -1278,7 +1294,7 @@ Package pdftex.def Info: include/figures/posteriors_all.png  used on input line
 File: include/figures/uncertainty.png Graphic file (type png)
 <use include/figures/uncertainty.png>
 Package pdftex.def Info: include/figures/uncertainty.png  used on input line 75
-6.
+8.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [37
 
@@ -1289,7 +1305,7 @@ Package pdftex.def Info: include/figures/uncertainty.png  used on input line 75
 File: include/figures/uniform_prior.png Graphic file (type png)
 <use include/figures/uniform_prior.png>
 Package pdftex.def Info: include/figures/uniform_prior.png  used on input line 
-779.
+781.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [39
 
@@ -1300,7 +1316,7 @@ Package pdftex.def Info: include/figures/uniform_prior.png  used on input line
 File: include/figures/around_40_prior.png Graphic file (type png)
 <use include/figures/around_40_prior.png>
 Package pdftex.def Info: include/figures/around_40_prior.png  used on input lin
-e 806.
+e 808.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [41
 
@@ -1311,7 +1327,7 @@ e 806.
 File: include/figures/horse_donkey_mule.png Graphic file (type png)
 <use include/figures/horse_donkey_mule.png>
 Package pdftex.def Info: include/figures/horse_donkey_mule.png  used on input l
-ine 830.
+ine 832.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [43
 
@@ -1322,7 +1338,7 @@ ine 830.
 File: include/figures/uncertainty2.png Graphic file (type png)
 <use include/figures/uncertainty2.png>
 Package pdftex.def Info: include/figures/uncertainty2.png  used on input line 8
-56.
+58.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [45
 
@@ -1333,7 +1349,7 @@ Package pdftex.def Info: include/figures/uncertainty2.png  used on input line 8
 File: include/figures/point_estimate.png Graphic file (type png)
 <use include/figures/point_estimate.png>
 Package pdftex.def Info: include/figures/point_estimate.png  used on input line
- 883.
+ 885.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [47
 
@@ -1344,7 +1360,7 @@ Package pdftex.def Info: include/figures/point_estimate.png  used on input line
 File: include/figures/uncertainty3.png Graphic file (type png)
 <use include/figures/uncertainty3.png>
 Package pdftex.def Info: include/figures/uncertainty3.png  used on input line 9
-07.
+09.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [49
 
@@ -1353,7 +1369,7 @@ Package pdftex.def Info: include/figures/uncertainty3.png  used on input line 9
 File: include/figures/uncertainty4.png Graphic file (type png)
 <use include/figures/uncertainty4.png>
 Package pdftex.def Info: include/figures/uncertainty4.png  used on input line 9
-12.
+14.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [50
 
@@ -1364,7 +1380,7 @@ Package pdftex.def Info: include/figures/uncertainty4.png  used on input line 9
 File: include/figures/post_probs_L30.png Graphic file (type png)
 <use include/figures/post_probs_L30.png>
 Package pdftex.def Info: include/figures/post_probs_L30.png  used on input line
- 934.
+ 936.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [52
 
@@ -1373,7 +1389,7 @@ Package pdftex.def Info: include/figures/post_probs_L30.png  used on input line
 File: include/figures/post_probs_L20_U30.png Graphic file (type png)
 <use include/figures/post_probs_L20_U30.png>
 Package pdftex.def Info: include/figures/post_probs_L20_U30.png  used on input 
-line 939.
+line 941.
 (pdftex.def)             Requested size: 307.28894pt x 204.85928pt.
 [53
 
@@ -1381,7 +1397,7 @@ line 939.
 <include/figures/cup_coffee.jpg, id=413, 722.7pt x 722.7pt>
 File: include/figures/cup_coffee.jpg Graphic file (type jpg)
 <use include/figures/cup_coffee.jpg>
-Package pdftex.def Info: include/figures/cup_coffee.jpg  used on input line 950
+Package pdftex.def Info: include/figures/cup_coffee.jpg  used on input line 952
 .
 (pdftex.def)             Requested size: 122.9125pt x 122.9125pt.
 [54
@@ -1400,7 +1416,7 @@ Package pdftex.def Info: include/figures/cup_coffee.jpg  used on input line 950
 Here is how much of TeX's memory you used:
  30567 strings out of 478353
  592141 string characters out of 5854636
- 912692 words of memory out of 5000000
+ 912972 words of memory out of 5000000
  47748 multiletter control sequences out of 15000+600000
  449338 words of font info for 166 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1418,7 +1434,7 @@ mf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/share/texmf-dist/fonts/type1/publ
 ic/amsfonts/symbols/msam10.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/
 uplbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/sh
 are/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Part1.pdf (54 pages, 3306661 bytes).
+Output written on Part1.pdf (54 pages, 3306799 bytes).
 PDF statistics:
  515 PDF objects out of 1000 (max. 8388607)
  375 compressed objects within 4 object streams

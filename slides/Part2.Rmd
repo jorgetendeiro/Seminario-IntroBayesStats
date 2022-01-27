@@ -8,7 +8,9 @@ author: |
   | Office of Research and Academia-Government-Community Collaboration
   | Education and Research Center for Artificial Intelligence and Data Innovation
   | Hiroshima University, Japan
+  | 
   |   
+  | 04 Fevereiro 2022
   | 
   | 
   | \faEnvelopeO\  ```tendeiro@hiroshima-u.ac.jp```
