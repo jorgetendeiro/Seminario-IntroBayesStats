@@ -15,7 +15,7 @@ Todos os ficheiros e código estarão disponíveis no
 - [Part 2](slides/Part2.pdf)
 
 Todas as análises e gráficos da apresentação sao reproduzíveis. Eu usei [R](https://www.r-project.org) (com
-[RStudio](https://rstudio.com) como GUI). Para aqueles que querem correr todas as análises, será necessário instalar os seguintes pacotes RŚ
+[RStudio](https://rstudio.com) como GUI). Para aqueles que querem correr todas as análises, será necessário instalar os seguintes pacotes R: 
 
 - `magrittr`
 - `knitr`
